@@ -1,0 +1,9 @@
+/* 传统鼠标样式 */
+body{
+    cursor:url(https://cdn.jsdelivr.net/gh/iuxt/src@master/mouse_cur/iuxt/pointer.cur),default;
+}
+
+/* 链接鼠标样式 */
+a:hover{
+    cursor:url(https://cdn.jsdelivr.net/gh/iuxt/src@master/mouse_cur/iuxt/link.cur),pointer;
+}
