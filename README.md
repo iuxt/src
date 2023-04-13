@@ -19,5 +19,8 @@
 
 ## 运维常用工具
 
-|软件名|下载地址|
-|Navicat 16 解压即用版||
+| 软件名                | 下载地址                                                                            |
+| --------------------- | ----------------------------------------------------------------------------------- |
+| Navicat 16 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat_16.0.6.7z                 |
+| Navicat 12 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.12.zip            |
+| Xmanager Power Suite  | https://github.com/iuxt/src/releases/download/ops/Xmanager.Power.Suite.6.0.0029.zip |
