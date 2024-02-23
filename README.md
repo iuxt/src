@@ -8,14 +8,6 @@
 | Generic Linux   | https://github.com/iuxt/src/releases/download/2.0/typora-0-11-18.tar.gz          |
 | Ubuntu & Debian | https://github.com/iuxt/src/releases/download/2.0/Typora_Linux_0.11.18_amd64.deb |
 
-## Nginx 编译工具
-
-| 文件           | 下载地址                                                                            |
-| -------------- | ----------------------------------------------------------------------------------- |
-| pcre           | https://github.com/iuxt/src/releases/download/Nginx-Build-Src/pcre-8.45.tar.gz      |
-| openssl        | https://github.com/iuxt/src/releases/download/Nginx-Build-Src/openssl-1.1.1k.tar.gz |
-| Nginx vts 监控 | https://github.com/iuxt/src/releases/download/Nginx-Build-Src/nginx-module-vts.zip  |
-| Nginx          | https://github.com/iuxt/src/releases/download/Nginx-Build-Src/nginx-1.20.2.tar.gz   |
 
 ## 运维常用工具
 
@@ -24,3 +16,4 @@
 | Navicat 16 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat_16.0.6.7z                 |
 | Navicat 12 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.12.zip            |
 | Xmanager Power Suite  | https://github.com/iuxt/src/releases/download/ops/Xmanager.Power.Suite.6.0.0029.zip |
+
