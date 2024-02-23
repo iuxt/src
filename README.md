@@ -13,7 +13,9 @@
 
 | 软件名                | 下载地址                                                                            |
 | --------------------- | ----------------------------------------------------------------------------------- |
-| Navicat 16 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat_16.0.6.7z                 |
+| Navicat 16.3.7 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.16.3.7.zip   | 
+| Navicat 16.0.6 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat_16.0.6.7z                 |
 | Navicat 12 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.12.zip            |
+|xshell plus 7 包含xshell和xftp，解压即用，不用执行bat， 不弹窗|https://github.com/iuxt/src/releases/download/ops/XshellPlus_v7.0.0023r.7z|
 | Xmanager Power Suite  | https://github.com/iuxt/src/releases/download/ops/Xmanager.Power.Suite.6.0.0029.zip |
 
