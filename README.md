@@ -13,6 +13,7 @@
 
 | 软件名                | 下载地址                                                                            |
 | --------------------- | ----------------------------------------------------------------------------------- |
+|Navicat Premium 17 中文 解压即用版|https://github.com/iuxt/src/releases/download/navicat17/Navicat.Premium.17.zip|
 | Navicat 16.3.7 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.16.3.7.zip   | 
 | Navicat 16.0.6 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat_16.0.6.7z                 |
 | Navicat 12 解压即用版 | https://github.com/iuxt/src/releases/download/ops/Navicat.Premium.12.zip            |
